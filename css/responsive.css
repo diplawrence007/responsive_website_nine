@@ -1,0 +1,58 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+.Portfolio-text h4{
+	padding: 8px 100px 0px 100px;
+}
+.services-text h4{
+	color:white;
+	padding: 8px 100px 0px 100px;
+	
+}
+
+
+	
+}
+
+
+/* Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.Portfolio-text h4{
+	padding: 8px 50px 0px 50px;
+}
+.services-text h4{
+	color:white;
+	padding: 8px 50px 0px 50px;
+	
+}
+
+
+}
+
+
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 480px) and (max-width:767px) {
+.Portfolio-text h4{
+	padding: 8px 50px 0px 50px;
+}
+.services-text h4{
+	color:white;
+	padding: 8px 50px 0px 50px;
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
